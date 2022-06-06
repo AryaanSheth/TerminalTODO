@@ -1,0 +1,4 @@
+<<<<<<< HEAD
+
+=======
+>>>>>>> 2a1d568 (Format and remove dead code)
